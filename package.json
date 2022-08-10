@@ -1,7 +1,7 @@
 {
   "name": "image-compress-wasm",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "compress images in front-end by wasm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/Realzzz1874/image-compress-wasm.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Realzzz1874",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Realzzz1874/image-compress-wasm/issues"
   },
